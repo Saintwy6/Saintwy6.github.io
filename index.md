@@ -1,13 +1,13 @@
 ## About Me
 
-What's up? hey\|you
+Hi, my name is Yuan Wang. Welcome to my page.
 
-I am an awesome student at Lehigh, you should hire me!
+I am an undergraduate student at Lehigh University majoing in finance.
 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-square" src="https://github.com/Saintwy6/Saintwy6.github.io/blob/master/images/%E7%85%A7%E7%89%87.jpg" width="50%">
+  <img class="img-square" src="">
 </p>
 
 ---
@@ -18,7 +18,7 @@ I am an awesome student at Lehigh, you should hire me!
 
 _**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+For the midterm project, I gained the basic idea of machine learning. We were asked to download and scraping the informational 10-k report and then came up with a professional report, reflecting the sentiment inside of each 10-k. Here's a glimpse of my work:
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
