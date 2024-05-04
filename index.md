@@ -16,7 +16,7 @@ I am an undergraduate student at Lehigh University majoing in finance.
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Company 10-K Sentiment Test](report.ipynb)**_
+_**[Company 10-K Sentiment Test](pdf/report.pdf)**_
 
 For the midterm project in FIN377 class, I gained the basic idea of machine learning. We were asked to download and scraping the informational 10-k report and then came up with a professional report, reflecting the sentiment inside of each 10-k. Here's a glimpse of my work:
 
@@ -24,7 +24,7 @@ For the midterm project in FIN377 class, I gained the basic idea of machine lear
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Regression Practice](pdf/regression.pdf)**_
 
 In professor Bowen's FIN377 class, I practiced the linear regression analysis model with housing data.Here's my work:
 
@@ -32,7 +32,7 @@ In professor Bowen's FIN377 class, I practiced the linear regression analysis mo
 
 ---
 
-_**[Machine Learning Individual Work](https://donbowen.github.io/teamproject/)**_
+_**[Machine Learning Individual Work](pdf/ML.pdf)**_
 
 Following the regression assignment, to gain our understanding on the ML study, professor Bowen escalated the difficulty and gave us the real ML assignment. Most of the things we learned through out the semester were covered in this assignment, for instance, EDA and plotting. For the outset we built a pipeline to avoid data leakage, and then moved on with multiple optimizing steps such as feature selection. Eventually, I got an immaculate and presentable model.
 
