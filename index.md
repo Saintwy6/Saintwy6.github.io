@@ -56,11 +56,11 @@ My goal in a short future is to continue education in Finance field. I've receiv
 
 I'm a big fan of soccer and MMA. Normally I only watch these two sports, but I like to try out new things, I would probably gain more interest in the future!
 
- <img src="DSCF6611copy.JPG">
+ <img src="images/DSCF6611copy.JPG">
 
 I spend a lot of time in the gym doing weight training.
 
- <img src="physique.jpg">
+ <img src="images/physique.jpg">
 
 Aside from all “physical” hobbies, I enjoy reading and gaming a lot! My most recent favorate book is The Call of the Wild by the renowned Jack London.
 
