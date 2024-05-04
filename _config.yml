@@ -1,4 +1,12 @@
-title: Yuan Wang's Personal Webpage
-description: 
-google_analytics:
-theme: jekyll-theme-time-machine
+title: Yuan Wang's Personal Webpage # your name (or website title) here
+description: Feel free to get to know me by the link I embedded below> # your text below (remove <br> elements if you don't need line breaks) 
+  <br><br>
+  <a href="https://www.linkedin.com/in/yuan-wang2002/">LinkedIn</a> 
+  <br>
+  <a href="pdf/Yuan Wang_CV.pdf">Resume</a>  
+  <br>
+  <a href="https://github.com/Saintwy6">GitHub</a>  
+  <br>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Youtube</a> 
+  
+theme: jekyll-theme-minimal
