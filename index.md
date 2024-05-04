@@ -16,7 +16,7 @@ I am an undergraduate student at Lehigh University majoing in finance.
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](report.md)**_
+_**[Natural language processing 10-Ks to identify risks](report.ipynb)**_
 
 For the midterm project, I gained the basic idea of machine learning. We were asked to download and scraping the informational 10-k report and then came up with a professional report, reflecting the sentiment inside of each 10-k. Here's a glimpse of my work:
 
