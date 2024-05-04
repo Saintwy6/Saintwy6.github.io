@@ -32,9 +32,11 @@ In professor Bowen's FIN377 class, I practiced the linear regression analysis mo
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Machine Learning Individual Work](https://donbowen.github.io/teamproject/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/pipeline.png"/>
+
+<img src="images/optimal model.png"/>
 
 ---
 
