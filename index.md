@@ -20,7 +20,7 @@ _**[Natural language processing 10-Ks to identify risks](report.md)**_
 
 For the midterm project, I gained the basic idea of machine learning. We were asked to download and scraping the informational 10-k report and then came up with a professional report, reflecting the sentiment inside of each 10-k. Here's a glimpse of my work:
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="972de6d2f61313c954ae23bd45b6daf.png"/>
 
 ---
 
