@@ -28,7 +28,7 @@ _**[Regression Practice](Regression_practice)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/8e3358e0e2ecd3733a13b222e4b92ab.png"/>
 
 ---
 
