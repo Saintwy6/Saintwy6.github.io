@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Yuan Wang
 
 Hi, my name is Yuan Wang. Welcome to my page.
