@@ -2,7 +2,7 @@
 
 Hi, my name is Yuan Wang. Welcome to my page.
 
-I am an undergraduate student at Lehigh University majoing in finance.
+I am an undergraduate student at Lehigh University majoring in finance.
 
 <!-- Upload your own photo and change the path -->
 
