@@ -58,7 +58,7 @@ I spend a lot of time in the gym doing weight training.
 
 <img src="images/physique.jpg"/>
 
-Aside from all "physical" hobbies, I enjoy reading and gaming a lot! My most recent favorate book is *The Call Of The Wild* by the renowned and beloved Jack London.
+Aside from all "physical" hobbies, I enjoy reading and gaming a lot! My most recent favorate book is *The Call of the Wild* by the renowned Jack London.
 
 <img src="images/OIP.jpg"/>
 
