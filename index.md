@@ -7,7 +7,7 @@ I am an undergraduate student at Lehigh University majoing in finance.
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-square" src="">
+  <img src="images/Pfp.jpg">
 </p>
 
 ---
