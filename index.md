@@ -16,9 +16,9 @@ I am an undergraduate student at Lehigh University majoing in finance.
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](report.ipynb)**_
+_**[Company 10-K Sentiment Test](report.ipynb)**_
 
-For the midterm project, I gained the basic idea of machine learning. We were asked to download and scraping the informational 10-k report and then came up with a professional report, reflecting the sentiment inside of each 10-k. Here's a glimpse of my work:
+For the midterm project in FIN377 class, I gained the basic idea of machine learning. We were asked to download and scraping the informational 10-k report and then came up with a professional report, reflecting the sentiment inside of each 10-k. Here's a glimpse of my work:
 
 <img src="images/972de6d2f61313c954ae23bd45b6daf.png"/>
 
@@ -26,7 +26,7 @@ For the midterm project, I gained the basic idea of machine learning. We were as
 
 _**[Regression Practice](Regression_practice)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+In professor Bowen's FIN377 class, I practiced the linear regression analysis model with housing data.Here's my work:
 
 <img src="images/8e3358e0e2ecd3733a13b222e4b92ab.png"/>
 
