@@ -13,6 +13,7 @@ I am an undergraduate student at Lehigh University majoring in finance.
 <p style="text-align:center;">
   <img src="images/Pfp.jpg">
 </p>
+Here're some links for better connection:
 <br>
 <a href="https://www.linkedin.com/in/yuan-wang2002/">LinkedIn</a> 
 <br>
@@ -20,7 +21,8 @@ I am an undergraduate student at Lehigh University majoring in finance.
 <br>
 <a href="https://github.com/Saintwy6">GitHub</a>  
 <br>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Youtube</a> 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Youtube</a>
+
 ---
 
 ## Exhibition of my FinTech works
@@ -63,11 +65,7 @@ My goal in a short future is to continue education in Finance field. I've receiv
 
 I'm a big fan of soccer and MMA. Normally I only watch these two sports, but I like to try out new things, I would probably gain more interest in the future!
 
- <img src="images/DSCF6611copy.JPG">
-
 I spend a lot of time in the gym doing weight training.
-
- <img src="images/physique.jpg">
 
 Aside from all “physical” hobbies, I enjoy reading and gaming a lot! My most recent favorate book is The Call of the Wild by the renowned Jack London.
 
