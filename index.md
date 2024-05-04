@@ -13,7 +13,14 @@ I am an undergraduate student at Lehigh University majoring in finance.
 <p style="text-align:center;">
   <img src="images/Pfp.jpg">
 </p>
-
+<br>
+<a href="https://www.linkedin.com/in/yuan-wang2002/">LinkedIn</a> 
+<br>
+<a href="pdf/Yuan Wang_CV.pdf">Resume</a>  
+<br>
+<a href="https://github.com/Saintwy6">GitHub</a>  
+<br>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Youtube</a> 
 ---
 
 ## Exhibition of my FinTech works
