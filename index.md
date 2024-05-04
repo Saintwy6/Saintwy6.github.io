@@ -15,11 +15,11 @@ I am an undergraduate student at Lehigh University majoring in finance.
 </p>
 Here're some links for better connection:
 <br>
-<a href="https://www.linkedin.com/in/yuan-wang2002/">LinkedIn</a> 
+<a href="https://www.linkedin.com/in/yuan-wang2002/">LinkedIn</a>
 <br>
-<a href="pdf/Yuan Wang_CV.pdf">Resume</a>  
+<a href="pdf/Yuan Wang_CV.pdf">Resume</a>
 <br>
-<a href="https://github.com/Saintwy6">GitHub</a>  
+<a href="https://github.com/Saintwy6">GitHub</a>
 <br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Youtube</a>
 
