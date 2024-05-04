@@ -52,7 +52,7 @@ My goal in a short future is to continue education in Finance field. I've receiv
 
 I'm a big fan of soccer and MMA. Normally I only watch these two sports, but I like to try out new things, I would probably gain more interest in the future!
 
-<img src=""/>
+<img src="DSCF6611.JPG"/>
 
 I spend a lot of time in the gym doing weight training.
 
