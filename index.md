@@ -34,15 +34,11 @@ In professor Bowen's FIN377 class, I practiced the linear regression analysis mo
 
 _**[Machine Learning Individual Work](https://donbowen.github.io/teamproject/)**_
 
+Following the regression assignment, to gain our understanding on the ML study, professor Bowen escalated the difficulty and gave us the real ML assignment. Most of the things we learned through out the semester were covered in this assignment, for instance, EDA and plotting. For the outset we built a pipeline to avoid data leakage, and then moved on with multiple optimizing steps such as feature selection. Eventually, I got an immaculate and presentable model.
+
 <img src="images/pipeline.png"/>
 
 <img src="images/optimal model.png"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
