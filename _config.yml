@@ -5,12 +5,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="pdf/Yuan Wang_CV.pdf">Resume</a>  
   <br>
-  <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
-  <br>
   <a href="https://github.com/Saintwy6">GitHub</a>  
   <br>
-  <a href="https://twitter.com/">Twitter</a>  
+  <a href="https://twitter.com/elonmusk">Twitter</a>  
   <br>
-  <a href="https://www.youtube.com/">Youtube</a> 
+  <a href="https://www.youtube.com/@MrBeast">Youtube</a> 
   
 theme: jekyll-theme-minimal
