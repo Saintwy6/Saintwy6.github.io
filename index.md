@@ -44,15 +44,21 @@ Following the regression assignment, to gain our understanding on the ML study, 
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+My goal in a short future is to continue education in Finance field. I've received multiple offers from some of the best business schools worldwide! However, for the further future, I can't outline a clear picture right now.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+I'm a big fan of soccer and MMA. Normally I only watch these two sports, but I like to try out new things, I would probably gain more interest in the future!
+
+<img src=""/>
+
+I spend a lot of time in the gym doing weight training.
+
+<img src=""/>
+
+Aside from all "physical" hobbies, I enjoy reading and gaming a lot! My most recent favorate book is *The Call Of The Wild* by the renowned and beloved Jack London.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
