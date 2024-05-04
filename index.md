@@ -2,11 +2,9 @@
 layout: default
 ---
 
-## Yuan Wang
+## Yuan Wang's Personal Page
 
-Hi, my name is Yuan Wang. Welcome to my page.
-
-I am an undergraduate student at Lehigh University majoring in finance.
+My name is Yuan Wang, I am a finance major undergraduate at Lehigh University.
 
 <!-- Upload your own photo and change the path -->
 
