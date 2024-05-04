@@ -12,7 +12,7 @@ I am an undergraduate student at Lehigh University majoing in finance.
 
 ---
 
-## Portfolio
+## Exhibition of my FinTech works
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
