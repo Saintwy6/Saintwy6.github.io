@@ -65,7 +65,7 @@ I'm a big fan of soccer and MMA. Normally I only watch these two sports, but I l
 
 I spend a lot of time in the gym doing weight training.
 
-Aside from all “physical” hobbies, I enjoy reading and gaming a lot! My most recent favorate book is The Call of the Wild by the renowned Jack London.
+Aside from all “physical” hobbies, I enjoy reading and gaming a lot! My most recent favorate book is *The Call of the Wild* by the renowned Jack London.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
