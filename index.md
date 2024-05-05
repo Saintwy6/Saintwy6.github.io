@@ -19,7 +19,7 @@ Here're some links for better connection:
 <br>
 <a href="https://github.com/Saintwy6">GitHub</a>
 <br>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Youtube</a>
+<a href="https://www.instagram.com/iamyuanwang4realnotscam/">Instagram</a>
 
 ---
 
