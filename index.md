@@ -55,17 +55,13 @@ Following the regression assignment, to gain our understanding on the ML study, 
 
 ## Career Objectives
 
-My goal in a short future is to continue education in Finance field. I've received multiple offers from some of the best business schools worldwide! However, for the further future, I can't outline a clear picture right now.
+Keep grinding on finance field by getting as much certificates as possible.
 
 ---
 
-## Hobbies
+## Additional Statement
 
-I'm a big fan of soccer and MMA. Normally I only watch these two sports, but I like to try out new things, I would probably gain more interest in the future!
-
-I spend a lot of time in the gym doing weight training.
-
-Aside from all “physical” hobbies, I enjoy reading and gaming a lot! My most recent favorate book is *The Call of the Wild* by the renowned Jack London.
+This website misses few updates on my current life. Sorry for the inconvenience if you are hoping to know more about me from this page.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
