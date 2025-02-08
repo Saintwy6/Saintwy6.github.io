@@ -23,7 +23,7 @@ Here're some links for better connection:
 
 ---
 
-## Exhibition of my FinTech works
+## Exhibition of my undergraduate FinTech work
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
