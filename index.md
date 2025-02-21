@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Yuan Wang's Personal Page
 
 My name is Yuan Wang, I'm a lehigh University class 2024 graduate and current NUS business school student majoring in Finance.
