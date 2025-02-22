@@ -14,7 +14,7 @@
 <br>
 <!-- <a href="https://www.instagram.com/iamyuanwang4realnotscam/">Instagram</a> -->
 
-## Exhibition of my undergraduate FinTech work
+### Exhibition of my undergraduate FinTech work
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
