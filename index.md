@@ -41,19 +41,3 @@ Following the regression assignment, to gain our understanding on the ML study, 
 <img src="images/pipeline.png"/>
 
 <img src="images/optimal model.png"/>
-
----
-
-## Career Objectives
-
-Keep grinding on finance field by getting as much certificates as possible.
-
----
-
-## Additional Statement
-
-This website misses few updates on my current life. Sorry for the inconvenience if you are hoping to know more about me from this page.
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
