@@ -1,6 +1,8 @@
 <!-- Upload your own photo and change the path -->
+
 <p style="text-align:center;">
   <!-- <img src="images/Pfp.jpg"> --> <!-- Commenting out the image line -->
+  
 </p>
 <!-- Here are some links for better connection: -->
 <br>
