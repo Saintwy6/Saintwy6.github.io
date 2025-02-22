@@ -1,3 +1,5 @@
+layout: default
+
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
