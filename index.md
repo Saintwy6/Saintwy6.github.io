@@ -1,21 +1,18 @@
-## Yuan Wang's Personal Page
-
-My name is Yuan Wang, I'm a lehigh University class 2024 graduate and current NUS business school student majoring in Finance.
-
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img src="images/Pfp.jpg">
+  <!-- <img src="images/Pfp.jpg"> --> <!-- Commenting out the image line -->
 </p>
-Here're some links for better connection:
+
+<!-- Here are some links for better connection: -->
 <br>
-<a href="https://www.linkedin.com/in/yuan-wang2002/">LinkedIn</a>
+<!-- <a href="https://www.linkedin.com/in/yuan-wang2002/">LinkedIn</a> -->
 <br>
-<a href="pdf/Yuan Wang_CV.pdf">Resume</a>
+<!-- <a href="pdf/Yuan Wang_CV.pdf">Resume</a> -->
 <br>
-<a href="https://github.com/Saintwy6">GitHub</a>
+<!-- <a href="https://github.com/Saintwy6">GitHub</a> -->
 <br>
-<a href="https://www.instagram.com/iamyuanwang4realnotscam/">Instagram</a>
+<!-- <a href="https://www.instagram.com/iamyuanwang4realnotscam/">Instagram</a> -->
 
 ---
 
