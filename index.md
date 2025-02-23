@@ -1,4 +1,4 @@
-# 📚 Hi! Welcome to my work archive!
+# Yuan Wang's FinTech Exhibition
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
