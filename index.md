@@ -17,7 +17,7 @@
 
 _**[Company 10-K Sentiment Test](pdf/report.pdf)**_
 
-For the midterm project in FIN377 class, I gained the basic idea of machine learning. We were asked to download and scraping the informational 10-k report and then came up with a professional report, reflecting the sentiment inside of each 10-k. Here's a glimpse of my work:
+This is the midterm project I did for FIN377 class at Lehigh University, I gained the basic idea of machine learning. We were asked to download and scraping the informational 10-k report and then came up with a professional report, reflecting the sentiment inside of each 10-k. Here's a glimpse of my work:
 
 <img src="images/972de6d2f61313c954ae23bd45b6daf.png"/>
 
@@ -25,7 +25,7 @@ For the midterm project in FIN377 class, I gained the basic idea of machine lear
 
 _**[Regression Practice](pdf/regression.pdf)**_
 
-In professor Bowen's FIN377 class, I practiced the linear regression analysis model with housing data.Here's my work:
+Furthermore, in FIN377 class, I practiced the linear regression analysis model with housing data.Here's my work:
 
 <img src="images/8e3358e0e2ecd3733a13b222e4b92ab.png"/>
 
