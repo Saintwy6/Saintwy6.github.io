@@ -1,12 +1,4 @@
----
-layout: default
-title: Home
----
-
 # Welcome to My Site!
-This is a test page using the Jekyll theme.
-
-
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
