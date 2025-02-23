@@ -1,4 +1,4 @@
-# Yuan's Fintech Work Exhibition
+# This website aims to archive all my FinTech works
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
